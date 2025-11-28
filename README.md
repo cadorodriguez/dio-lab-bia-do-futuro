@@ -36,6 +36,8 @@ Utilize os **dados mockados** disponíveis na pasta [`data/`](./data/) para alim
 - `perfil_investidor.json` - Perfil e preferências do cliente
 - `produtos_financeiros.json` - Produtos e serviços disponíveis
 
+> TODO: Histórico de atendimento ao cliente.
+
 Você pode (e deve!) adaptar ou expandir esses dados conforme seu caso de uso.
 
 📄 **Template:** [`docs/02-base-conhecimento.md`](./docs/02-base-conhecimento.md)
