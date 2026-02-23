@@ -51,8 +51,18 @@ with open('data/produtos_financeiros.json', 'r', encoding='utf-8') as f:
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
 
-[Sua descrição aqui]
+Os dados podem ser injetados no prompt para garantir que o agente tenha o melhor contexto. Para informações mais robustas o ideal é que as informações sejam carregadas de formas dinâmica.
 
+'''text
+`historico_atendimento.csv` :  Contextualizar interações anteriores 
+`perfil_investidor.json` : Personalizar recomendações 
+`produtos_financeiros.json` : Sugerir produtos adequados ao perfil
+`transacoes.csv` : Analisar padrão de gastos do cliente 
+`dados_ficticios_educacao_financeira_viagens.csv` : Simulação de planejamento financeiro para viagens com custos, poupança mensal e milhas
+`base_perfis_viajantes_educacao_financeira.csv` : CSV | Perfis fictícios de viajantes com renda, hábitos financeiros e objetivos de viagem
+`base_perfil_destino_ideal_viagens.csv` : Cruzamento entre perfil financeiro do viajante e destino ideal com tempo estimado para realização
+`base_destinos_por_epoca_do_ano.csv` : Destinos do Brasil e do mundo organizados por mês, temporada, clima e perfil ideal
+'''
 ---
 
 ## Exemplo de Contexto Montado
