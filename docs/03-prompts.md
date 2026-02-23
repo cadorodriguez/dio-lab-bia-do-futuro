@@ -162,5 +162,5 @@ Você está planejando viajar em quanto tempo?
 
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
-- [Observação 1]
+- o chatgpt se perdeu no edge case, e me passou a previsão do tempo
 - [Observação 2]
