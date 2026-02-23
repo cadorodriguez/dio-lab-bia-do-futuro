@@ -2,17 +2,16 @@
 
 ## Dados Utilizados
 
-Descreva se usou os arquivos da pasta `data`, por exemplo:
-
 | Arquivo | Formato | Utilização no Agente |
 |---------|---------|---------------------|
 | `historico_atendimento.csv` | CSV | Contextualizar interações anteriores |
 | `perfil_investidor.json` | JSON | Personalizar recomendações |
 | `produtos_financeiros.json` | JSON | Sugerir produtos adequados ao perfil |
 | `transacoes.csv` | CSV | Analisar padrão de gastos do cliente |
-
-> [!TIP]
-> **Quer um dataset mais robusto?** Você pode utilizar datasets públicos do [Hugging Face](https://huggingface.co/datasets) relacionados a finanças, desde que sejam adequados ao contexto do desafio.
+| `dados_ficticios_educacao_financeira_viagens.csv` | CSV | Simulação de planejamento financeiro para viagens com custos, poupança mensal e milhas |
+| `base_perfis_viajantes_educacao_financeira.csv` | CSV | Perfis fictícios de viajantes com renda, hábitos financeiros e objetivos de viagem |
+| `base_perfil_destino_ideal_viagens.csv` | CSV | Cruzamento entre perfil financeiro do viajante e destino ideal com tempo estimado para realização |
+| `base_destinos_por_epoca_do_ano.csv` | CSV | Destinos do Brasil e do mundo organizados por mês, temporada, clima e perfil ideal |
 
 ---
 
@@ -20,7 +19,7 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 
 > Você modificou ou expandiu os dados mockados? Descreva aqui.
 
-[Sua descrição aqui]
+Dados adaptados para pessoas que desejam poupar para viajar
 
 ---
 
@@ -29,7 +28,25 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 ### Como os dados são carregados?
 > Descreva como seu agente acessa a base de conhecimento.
 
-[ex: Os JSON/CSV são carregados no início da sessão e incluídos no contexto do prompt]
+'''
+import pandas as pd
+import json
+
+#CSV
+historico = pd.read_csv('data/historico_atendimento.csv')
+transacoes = pd.read_csv('data/transacoes.csv')
+planejamento_viagens = pd.read_csv('data/dados_ficticios_educacao_financeira_viagens.csv')
+perfis_viajantes = pd.read_csv('data/base_perfis_viajantes_educacao_financeira.csv')
+perfil_destino = pd.read_csv('data/base_perfil_destino_ideal_viagens.csv')
+destinos_epoca = pd.read_csv('data/base_destinos_por_epoca_do_ano.csv')
+
+#Json
+with open('data/produtos_financeiros.json', 'r', encoding='utf-8') as f:
+  perfil = json.load(f)
+
+  with open('data/perfil_investidor.json', 'r', encoding='utf-8') as f:
+  perfil = json.load(f)
+'''
 
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
