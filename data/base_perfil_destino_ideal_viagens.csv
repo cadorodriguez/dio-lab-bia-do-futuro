@@ -1,0 +1,26 @@
+id_simulacao,perfil_viajante,renda_mensal_brl,percentual_poupanca_sugerido,valor_mensal_poupado_brl,destino_ideal,pais,categoria_viagem,custo_estimado_viagem_brl,meses_estimados_para_realizar,estrategia_milhas_sugerida
+1,Planejador Econômico,2500,30,750.0,Santiago,Chile,Internacional,8200,10.9,Pagar hospedagem em dinheiro e voo com milhas
+2,Caçador de Milhas,7000,25,1750.0,Salvador,Brasil,Nacional,4500,2.6,Pagar hospedagem em dinheiro e voo com milhas
+3,Planejador Econômico,3500,25,875.0,Florianópolis,Brasil,Nacional,5200,5.9,Monitorar promoções relâmpago de passagens
+4,Casal Estratégico,3500,15,525.0,Buenos Aires,Argentina,Internacional,7500,14.3,Focar em cartões com bônus de adesão
+5,Caçador de Milhas,2500,15,375.0,Lisboa,Portugal,Internacional,15000,40.0,Pagar hospedagem em dinheiro e voo com milhas
+6,Aventureiro de Férias,2500,15,375.0,Recife,Brasil,Nacional,4200,11.2,Acumular pontos por 6 meses antes de emitir
+7,Viajante Premium,5000,30,1500.0,Salvador,Brasil,Nacional,4500,3.0,Monitorar promoções relâmpago de passagens
+8,Aventureiro de Férias,7000,15,1050.0,Santiago,Chile,Internacional,8200,7.8,Pagar hospedagem em dinheiro e voo com milhas
+9,Casal Estratégico,7000,20,1400.0,Londres,Reino Unido,Internacional,20000,14.3,Monitorar promoções relâmpago de passagens
+10,Casal Estratégico,7000,30,2100.0,Salvador,Brasil,Nacional,4500,2.1,Monitorar promoções relâmpago de passagens
+11,Aventureiro de Férias,15000,30,4500.0,Londres,Reino Unido,Internacional,20000,4.4,Pagar hospedagem em dinheiro e voo com milhas
+12,Planejador Econômico,15000,15,2250.0,Florianópolis,Brasil,Nacional,5200,2.3,Focar em cartões com bônus de adesão
+13,Família Organizada,5000,25,1250.0,Florianópolis,Brasil,Nacional,5200,4.2,Monitorar promoções relâmpago de passagens
+14,Digital Nomad Iniciante,15000,30,4500.0,Recife,Brasil,Nacional,4200,0.9,Focar em cartões com bônus de adesão
+15,Casal Estratégico,3500,15,525.0,Salvador,Brasil,Nacional,4500,8.6,Pagar hospedagem em dinheiro e voo com milhas
+16,Planejador Econômico,3500,30,1050.0,Orlando,EUA,Internacional,12000,11.4,Monitorar promoções relâmpago de passagens
+17,Planejador Econômico,7000,20,1400.0,Santiago,Chile,Internacional,8200,5.9,Monitorar promoções relâmpago de passagens
+18,Aventureiro de Férias,3500,30,1050.0,Florianópolis,Brasil,Nacional,5200,5.0,Focar em cartões com bônus de adesão
+19,Aventureiro de Férias,2500,20,500.0,Salvador,Brasil,Nacional,4500,9.0,Focar em cartões com bônus de adesão
+20,Explorador Solo,5000,25,1250.0,Salvador,Brasil,Nacional,4500,3.6,Pagar hospedagem em dinheiro e voo com milhas
+21,Digital Nomad Iniciante,2500,15,375.0,Lisboa,Portugal,Internacional,15000,40.0,Monitorar promoções relâmpago de passagens
+22,Caçador de Milhas,5000,15,750.0,Londres,Reino Unido,Internacional,20000,26.7,Usar milhas apenas no voo internacional
+23,Digital Nomad Iniciante,10000,30,3000.0,Salvador,Brasil,Nacional,4500,1.5,Usar milhas apenas no voo internacional
+24,Digital Nomad Iniciante,5000,25,1250.0,Salvador,Brasil,Nacional,4500,3.6,Focar em cartões com bônus de adesão
+25,Planejador Econômico,5000,30,1500.0,Londres,Reino Unido,Internacional,20000,13.3,Pagar hospedagem em dinheiro e voo com milhas

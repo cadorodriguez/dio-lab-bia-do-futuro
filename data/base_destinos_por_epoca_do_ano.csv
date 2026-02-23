@@ -1,0 +1,81 @@
+id_registro,destino,pais,regiao_continente,mes_recomendado,classificacao_temporada,clima_predominante,motivo_para_visitar,nivel_custo_estimado,perfil_ideal
+1,Barcelona,Espanha,Europa,Outubro,Média Temporada,Frio,Temporada de neve,Baixo,Família
+2,Fernando de Noronha,Brasil,Nordeste,Dezembro,Alta Temporada,Ameno,Menor fluxo de turistas,Alto,Grupo de Amigos
+3,Santiago,Chile,América do Sul,Agosto,Média Temporada,Frio,Clima mais seco e agradável,Alto,Grupo de Amigos
+4,Manaus,Brasil,Norte,Junho,Média Temporada,Ameno,Alta procura por férias escolares,Alto,Família
+5,Bariloche,Argentina,América do Sul,Março,Média Temporada,Seco,Festival cultural importante,Baixo,Grupo de Amigos
+6,Porto de Galinhas,Brasil,Nordeste,Agosto,Média Temporada,Chuvoso,Clima mais seco e agradável,Baixo,Mochileiro
+7,São Paulo,Brasil,Sudeste,Abril,Baixa Temporada,Chuvoso,Menor fluxo de turistas,Baixo,Viajante Solo
+8,Lençóis Maranhenses,Brasil,Nordeste,Outubro,Média Temporada,Ameno,Melhor época para praias,Médio,Família
+9,Tóquio,Japão,Ásia,Março,Média Temporada,Ameno,Menor fluxo de turistas,Baixo,Grupo de Amigos
+10,Salvador,Brasil,Nordeste,Fevereiro,Alta Temporada,Ensolarado,Temporada de neve,Médio,Viajante Solo
+11,Orlando,EUA,América do Norte,Novembro,Baixa Temporada,Ensolarado,Temporada de neve,Médio,Grupo de Amigos
+12,Nova York,EUA,América do Norte,Março,Média Temporada,Seco,Clima mais seco e agradável,Baixo,Casal
+13,Gramado,Brasil,Sul,Maio,Baixa Temporada,Seco,Clima mais seco e agradável,Baixo,Mochileiro
+14,Gramado,Brasil,Sul,Janeiro,Alta Temporada,Frio,Melhor custo-benefício,Alto,Grupo de Amigos
+15,Jericoacoara,Brasil,Nordeste,Outubro,Média Temporada,Ameno,Melhor época para praias,Baixo,Casal
+16,Roma,Itália,Europa,Março,Média Temporada,Ameno,Temporada de neve,Baixo,Grupo de Amigos
+17,Cancún,México,América do Norte,Abril,Baixa Temporada,Chuvoso,Melhor época para praias,Médio,Família
+18,Florianópolis,Brasil,Sul,Maio,Baixa Temporada,Ensolarado,Menor fluxo de turistas,Baixo,Mochileiro
+19,Orlando,EUA,América do Norte,Junho,Média Temporada,Ameno,Clima mais seco e agradável,Médio,Mochileiro
+20,Jericoacoara,Brasil,Nordeste,Janeiro,Alta Temporada,Chuvoso,Melhor custo-benefício,Médio,Viajante Solo
+21,Cidade do Cabo,África do Sul,África,Novembro,Baixa Temporada,Frio,Melhor custo-benefício,Alto,Mochileiro
+22,Tóquio,Japão,Ásia,Dezembro,Alta Temporada,Chuvoso,Temporada de neve,Alto,Família
+23,Cancún,México,América do Norte,Fevereiro,Alta Temporada,Ameno,Clima mais seco e agradável,Médio,Casal
+24,Bonito,Brasil,Centro-Oeste,Junho,Média Temporada,Ameno,Menor fluxo de turistas,Baixo,Mochileiro
+25,Lisboa,Portugal,Europa,Julho,Alta Temporada,Seco,Temporada de neve,Médio,Viajante Solo
+26,Foz do Iguaçu,Brasil,Sul,Outubro,Média Temporada,Ameno,Temporada de neve,Médio,Mochileiro
+27,Rio de Janeiro,Brasil,Sudeste,Janeiro,Alta Temporada,Chuvoso,Melhor custo-benefício,Médio,Família
+28,Bonito,Brasil,Centro-Oeste,Março,Média Temporada,Chuvoso,Melhor custo-benefício,Médio,Família
+29,Cidade do Cabo,África do Sul,África,Junho,Média Temporada,Ameno,Melhor época para praias,Baixo,Grupo de Amigos
+30,Salvador,Brasil,Nordeste,Setembro,Baixa Temporada,Chuvoso,Melhor custo-benefício,Alto,Família
+31,Manaus,Brasil,Norte,Agosto,Média Temporada,Frio,Festival cultural importante,Alto,Viajante Solo
+32,Buenos Aires,Argentina,América do Sul,Novembro,Baixa Temporada,Seco,Alta procura por férias escolares,Alto,Grupo de Amigos
+33,Lençóis Maranhenses,Brasil,Nordeste,Dezembro,Alta Temporada,Ensolarado,Melhor época para praias,Médio,Casal
+34,Salvador,Brasil,Nordeste,Julho,Alta Temporada,Chuvoso,Festival cultural importante,Alto,Grupo de Amigos
+35,Lençóis Maranhenses,Brasil,Nordeste,Fevereiro,Alta Temporada,Ameno,Clima mais seco e agradável,Baixo,Mochileiro
+36,Roma,Itália,Europa,Março,Média Temporada,Ameno,Alta procura por férias escolares,Alto,Viajante Solo
+37,Tóquio,Japão,Ásia,Março,Média Temporada,Chuvoso,Festival cultural importante,Baixo,Mochileiro
+38,Cidade do Cabo,África do Sul,África,Dezembro,Alta Temporada,Ameno,Temporada de neve,Médio,Grupo de Amigos
+39,Gramado,Brasil,Sul,Novembro,Baixa Temporada,Frio,Melhor época para praias,Alto,Família
+40,Florianópolis,Brasil,Sul,Janeiro,Alta Temporada,Ensolarado,Festival cultural importante,Médio,Casal
+41,Tóquio,Japão,Ásia,Janeiro,Alta Temporada,Seco,Melhor custo-benefício,Alto,Mochileiro
+42,Foz do Iguaçu,Brasil,Sul,Junho,Média Temporada,Ameno,Festival cultural importante,Baixo,Família
+43,Salvador,Brasil,Nordeste,Julho,Alta Temporada,Ensolarado,Melhor época para praias,Médio,Grupo de Amigos
+44,Dubai,Emirados Árabes,Oriente Médio,Maio,Baixa Temporada,Frio,Alta procura por férias escolares,Médio,Casal
+45,São Paulo,Brasil,Sudeste,Abril,Baixa Temporada,Frio,Melhor época para praias,Médio,Família
+46,Bariloche,Argentina,América do Sul,Junho,Média Temporada,Ensolarado,Menor fluxo de turistas,Baixo,Grupo de Amigos
+47,Nova York,EUA,América do Norte,Novembro,Baixa Temporada,Seco,Melhor época para praias,Alto,Casal
+48,Alter do Chão,Brasil,Norte,Março,Média Temporada,Frio,Menor fluxo de turistas,Baixo,Casal
+49,Bonito,Brasil,Centro-Oeste,Julho,Alta Temporada,Frio,Festival cultural importante,Alto,Família
+50,Manaus,Brasil,Norte,Outubro,Média Temporada,Frio,Festival cultural importante,Baixo,Mochileiro
+51,São Paulo,Brasil,Sudeste,Abril,Baixa Temporada,Chuvoso,Temporada de neve,Alto,Casal
+52,Bariloche,Argentina,América do Sul,Setembro,Baixa Temporada,Ensolarado,Temporada de neve,Médio,Casal
+53,Lençóis Maranhenses,Brasil,Nordeste,Outubro,Média Temporada,Ameno,Melhor custo-benefício,Alto,Casal
+54,Jericoacoara,Brasil,Nordeste,Março,Média Temporada,Ameno,Festival cultural importante,Médio,Mochileiro
+55,Foz do Iguaçu,Brasil,Sul,Julho,Alta Temporada,Ensolarado,Festival cultural importante,Baixo,Família
+56,Fernando de Noronha,Brasil,Nordeste,Setembro,Baixa Temporada,Chuvoso,Festival cultural importante,Baixo,Viajante Solo
+57,Londres,Reino Unido,Europa,Janeiro,Alta Temporada,Chuvoso,Temporada de neve,Alto,Mochileiro
+58,Bonito,Brasil,Centro-Oeste,Junho,Média Temporada,Ensolarado,Clima mais seco e agradável,Médio,Grupo de Amigos
+59,Roma,Itália,Europa,Dezembro,Alta Temporada,Ensolarado,Alta procura por férias escolares,Médio,Viajante Solo
+60,Tóquio,Japão,Ásia,Abril,Baixa Temporada,Frio,Menor fluxo de turistas,Médio,Casal
+61,Bariloche,Argentina,América do Sul,Maio,Baixa Temporada,Frio,Alta procura por férias escolares,Alto,Casal
+62,Santiago,Chile,América do Sul,Janeiro,Alta Temporada,Frio,Temporada de neve,Baixo,Mochileiro
+63,Lisboa,Portugal,Europa,Março,Média Temporada,Seco,Alta procura por férias escolares,Médio,Família
+64,Bariloche,Argentina,América do Sul,Janeiro,Alta Temporada,Seco,Clima mais seco e agradável,Médio,Casal
+65,Barcelona,Espanha,Europa,Junho,Média Temporada,Ameno,Temporada de neve,Médio,Grupo de Amigos
+66,Buenos Aires,Argentina,América do Sul,Março,Média Temporada,Frio,Melhor custo-benefício,Alto,Viajante Solo
+67,Cidade do Cabo,África do Sul,África,Fevereiro,Alta Temporada,Ameno,Menor fluxo de turistas,Baixo,Família
+68,Tóquio,Japão,Ásia,Abril,Baixa Temporada,Frio,Alta procura por férias escolares,Alto,Mochileiro
+69,Buenos Aires,Argentina,América do Sul,Novembro,Baixa Temporada,Seco,Alta procura por férias escolares,Alto,Casal
+70,Buenos Aires,Argentina,América do Sul,Abril,Baixa Temporada,Ameno,Clima mais seco e agradável,Alto,Grupo de Amigos
+71,Lisboa,Portugal,Europa,Junho,Média Temporada,Seco,Festival cultural importante,Médio,Família
+72,Bariloche,Argentina,América do Sul,Janeiro,Alta Temporada,Ensolarado,Clima mais seco e agradável,Baixo,Mochileiro
+73,Paris,França,Europa,Novembro,Baixa Temporada,Chuvoso,Temporada de neve,Médio,Mochileiro
+74,Buenos Aires,Argentina,América do Sul,Maio,Baixa Temporada,Frio,Melhor custo-benefício,Médio,Casal
+75,Orlando,EUA,América do Norte,Março,Média Temporada,Chuvoso,Menor fluxo de turistas,Médio,Família
+76,Paris,França,Europa,Junho,Média Temporada,Frio,Temporada de neve,Alto,Casal
+77,São Paulo,Brasil,Sudeste,Janeiro,Alta Temporada,Chuvoso,Festival cultural importante,Médio,Família
+78,Manaus,Brasil,Norte,Fevereiro,Alta Temporada,Ensolarado,Melhor época para praias,Baixo,Família
+79,Santiago,Chile,América do Sul,Maio,Baixa Temporada,Ensolarado,Melhor custo-benefício,Baixo,Viajante Solo
+80,Orlando,EUA,América do Norte,Fevereiro,Alta Temporada,Chuvoso,Clima mais seco e agradável,Médio,Grupo de Amigos

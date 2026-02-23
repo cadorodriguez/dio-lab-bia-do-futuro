@@ -1,0 +1,26 @@
+id_perfil,tipo_viajante,renda_mensal_brl,percentual_que_consegue_poupar,valor_mensal_poupado_brl,possui_reserva_emergencia,nivel_organizacao_financeira,conhecimento_sobre_milhas,usa_cartao_para_acumular_milhas,objetivo_principal_viagem,costuma_planejar_com_meses_antecedencia,gasto_medio_viagem_anual_brl,precisa_melhorar
+1,Planejador Econômico,15000,10,1500.0,Não,Baixo,Básico,Sim,Viajar sem comprometer reserva de emergência,3,20870,Controle de gastos mensais
+2,Planejador Econômico,10000,25,2500.0,Sim,Baixo,Básico,Sim,Reduzir dívidas e viajar com planejamento,3,21390,Planejamento de metas
+3,Digital Nomad Iniciante,15000,35,5250.0,Sim,Médio,Intermediário,Sim,Viajar 2x por ano,12,14149,Organização de milhas
+4,Casal Estratégico,3500,15,525.0,Sim,Baixo,Avançado,Sim,Fazer primeira viagem internacional,9,22782,Organização de milhas
+5,Aventureiro de Férias,2500,35,875.0,Sim,Médio,Nenhum,Não,Viajar sem comprometer reserva de emergência,9,21918,Planejamento de metas
+6,Planejador Econômico,15000,10,1500.0,Sim,Médio,Nenhum,Sim,Viajar 1x por ano,12,12108,Redução de impulsos de compra
+7,Viajante Premium,15000,20,3000.0,Não,Médio,Básico,Não,Viajar sem comprometer reserva de emergência,3,22960,Planejamento de metas
+8,Explorador Solo,10000,35,3500.0,Sim,Médio,Avançado,Não,Viajar sem comprometer reserva de emergência,6,13626,Controle de gastos mensais
+9,Casal Estratégico,3500,10,350.0,Não,Médio,Nenhum,Sim,Reduzir dívidas e viajar com planejamento,9,9967,Redução de impulsos de compra
+10,Aventureiro de Férias,7000,35,2450.0,Sim,Médio,Básico,Sim,Viajar sem comprometer reserva de emergência,9,22155,Redução de impulsos de compra
+11,Casal Estratégico,10000,25,2500.0,Sim,Baixo,Avançado,Sim,Viajar 1x por ano,3,8008,Planejamento de metas
+12,Caçador de Milhas,15000,25,3750.0,Não,Médio,Avançado,Não,Reduzir dívidas e viajar com planejamento,3,6753,Criação de fundo exclusivo para viagens
+13,Casal Estratégico,5000,35,1750.0,Sim,Médio,Avançado,Sim,Acumular milhas suficientes para voo grátis,3,11630,Criação de fundo exclusivo para viagens
+14,Caçador de Milhas,3500,30,1050.0,Não,Alto,Básico,Sim,Fazer primeira viagem internacional,6,20674,Criação de fundo exclusivo para viagens
+15,Casal Estratégico,2500,30,750.0,Não,Baixo,Nenhum,Não,Fazer primeira viagem internacional,6,4898,Planejamento de metas
+16,Caçador de Milhas,10000,10,1000.0,Não,Baixo,Básico,Sim,Viajar sem comprometer reserva de emergência,12,21015,Planejamento de metas
+17,Digital Nomad Iniciante,5000,30,1500.0,Sim,Alto,Básico,Não,Acumular milhas suficientes para voo grátis,9,17355,Criação de fundo exclusivo para viagens
+18,Explorador Solo,7000,10,700.0,Sim,Baixo,Intermediário,Sim,Reduzir dívidas e viajar com planejamento,6,22282,Planejamento de metas
+19,Planejador Econômico,2500,10,250.0,Sim,Baixo,Nenhum,Não,Viajar 1x por ano,6,12125,Redução de impulsos de compra
+20,Viajante Premium,3500,30,1050.0,Não,Baixo,Avançado,Não,Viajar 2x por ano,3,6176,Redução de impulsos de compra
+21,Digital Nomad Iniciante,5000,25,1250.0,Não,Alto,Nenhum,Sim,Viajar 1x por ano,12,14118,Controle de gastos mensais
+22,Explorador Solo,3500,15,525.0,Não,Baixo,Avançado,Sim,Fazer primeira viagem internacional,12,11185,Controle de gastos mensais
+23,Caçador de Milhas,7000,30,2100.0,Sim,Alto,Nenhum,Sim,Viajar 2x por ano,6,16317,Redução de impulsos de compra
+24,Digital Nomad Iniciante,7000,15,1050.0,Sim,Baixo,Avançado,Sim,Acumular milhas suficientes para voo grátis,9,17909,Organização de milhas
+25,Aventureiro de Férias,7000,35,2450.0,Sim,Baixo,Intermediário,Sim,Viajar 1x por ano,3,13276,Controle de gastos mensais
